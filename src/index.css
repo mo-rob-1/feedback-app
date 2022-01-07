@@ -175,6 +175,10 @@ input:focus {
 .about p {
   margin: 10px 0;
 }
+.HeaderLink {
+  color: inherit;
+  text-decoration: none;
+}
 @media (max-width: 600px) {
   .rating li {
     margin: 10px 3px;
